@@ -1,0 +1,46 @@
+/* Global */
+body{
+
+}
+
+.wrapper{
+    padding: 15px;
+}
+
+footer{
+    color: gray;
+}
+
+footer a{
+    text-decoration: none;
+    color: gray;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* Index */
+.main_links{
+    display: inline-block;
+}
+
+/* Bio */
+#carousel{
+    background-color: #gray;
+}
+
+/* Clock */
+#toolbar{
+    border: 3px solid black;
+    margin: 5px;
+    padding: 15px;
+}
+
+#toggle{
+
+}
