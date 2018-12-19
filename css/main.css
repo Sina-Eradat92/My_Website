@@ -1,19 +1,40 @@
 /* Global */
 body{
-
+  background-color: #666666;
 }
 
 .wrapper{
     padding: 15px;
 }
 
+/* navbar */
+.navbar-default {
+    background-color: rgba(245, 245, 245, 0.4);
+    border-bottom:3px solid #000;
+    font-size: 18px;
+    font-weight: 600;
+}
+.card {
+  color: #f2f2f2;
+  background-color: rgba(245, 245, 245, 0.4);
+}
+.card-header, .card-footer , .list-group-item{
+  color: #f2f2f2;
+  background-color: rgba(245, 245, 245, 0.4);
+}
+h1{
+  color: #f2f2f2;
+}
+a{
+  color: #66e0ff;
+}
 footer{
-    color: gray;
+    color: #f2f2f2;
 }
 
 footer a{
     text-decoration: none;
-    color: gray;
+    color: #f2f2f2;
 }
 
 .footer {
@@ -28,13 +49,22 @@ footer a{
 .main_links{
     display: inline-block;
 }
+.main_links a{
+  color: #997300 ;
+}
 #name{
   font-size: 150px;
+  font-weight: 200;
+  color: #997300 ;
+}
+
+.jumbotron{
+  background-color: #f2f2f2;
 }
 
 /* Bio */
 .cback{
-    background-color: gray;
+    background-color: #000;
 }
 
 /* Clock */
