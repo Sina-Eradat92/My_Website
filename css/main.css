@@ -28,6 +28,9 @@ footer a{
 .main_links{
     display: inline-block;
 }
+#name{
+  font-size: 150px;
+}
 
 /* Bio */
 .cback{
